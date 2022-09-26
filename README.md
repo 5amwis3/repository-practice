@@ -7,3 +7,5 @@
     4. stage changes for commit
     5. commit changes to version history
     6. review previous changes with git log
+
+example file
